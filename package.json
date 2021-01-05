@@ -24,7 +24,7 @@
     "typescript": "^3.7.5"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "dotenv": "^8.2.0",
     "inquirer": "^7.0.4",
     "lodash": "^4.17.15",
